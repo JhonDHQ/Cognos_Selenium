@@ -12,5 +12,7 @@ public class NewTest {
 		
 		WebDriver driver = new ChromeDriver(); //objeto de Webdriver
 		driver.get("https://www.google.com");
+		
+		
   }
 }
